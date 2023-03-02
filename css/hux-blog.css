@@ -651,6 +651,12 @@ pre.highlight {
 .search-icon-close {
   font-size: 16px;
 }
+@font-face {
+  font-family: 'Smiley Sans';
+  src: url('./fonts/SmileySans-Oblique.otf.woff2') format(woff2);
+}
+
+
 body {
   /* Hux learn from
      *     TypeIsBeautiful,
