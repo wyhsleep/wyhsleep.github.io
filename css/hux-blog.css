@@ -653,7 +653,7 @@ pre.highlight {
 }
 @font-face {
   font-family: 'Smiley Sans';
-  src: url('./fonts/SmileySans-Oblique.otf.woff2') format(woff2);
+  src: url('../build/SmileySans-Oblique.otf.woff2') format(woff2);
 }
 
 
