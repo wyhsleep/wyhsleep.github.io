@@ -12,9 +12,9 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username: huxpro
+#zhihu_username: huxpro
 github_username: wyhsleep
-twitter_username: huxpro
+#twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
