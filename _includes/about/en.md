@@ -1,1 +1,1 @@
-Hi, this is WangYihui. I am current a undergraute student in Sun-sat-san University, majoying in information engineering.
+Hi, this is WangYihui. I am current a undergraduate student in Sun-yat-san University, majoring in information engineering.
